@@ -1,0 +1,46 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #33393D;
+    color: #d2c0ad;
+}
+
+.header {
+    height: 5em;
+    padding: 4em;
+    font-size: 2em;
+    color: #d2c0ad;
+    background-image: url(../background/background.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.header h1 {
+    margin: 0%;
+    font-weight: 400;
+}
+
+.poems {
+    width: 50%;
+    margin: 30px;
+    padding-top: 3em;
+    padding-bottom: 3em;
+    padding-left: 9em;
+}
+
+.poems td {
+    width: 20%;
+    height: 30%;
+    padding: 1em;
+}
+
+.poems img {
+    width: 70%;
+    border: solid 1px #5e676c;
+}
+
+.footer {
+    padding: 1em;
+    background-color: #17191b;
+    color: #33393D;
+    text-align: center;
+}
